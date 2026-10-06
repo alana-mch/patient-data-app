@@ -42,3 +42,7 @@ The app provides several built‑in statistics:
 4. Access the app at:
    http://localhost:8080/patientdata
 
+## Purpose
+UCL BSc Computer Science Coursework
+Module Code: COMP0004
+
